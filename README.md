@@ -1,2 +1,12 @@
-# CodeAlpha_CalculatorProgram
-A C program to perform basic arithmetic operations (Addition, Subtraction, Multiplication &amp; Division). Using switch case for operation selection.
+# Basic Calculator in C
+
+This project performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+Concepts Used:
+- Switch Case
+- Conditional Statements
+- User Input
